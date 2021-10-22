@@ -44,3 +44,5 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
    - Installation Log --> /root/log-install2.txt
 
 -----------------------------Script by RARE------------------------
+
+  ## Register IP VPS: Contact Telegram @vpnshopee <a href="https://t.me/vpnshopee" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
